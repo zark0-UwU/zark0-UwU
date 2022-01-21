@@ -1,9 +1,11 @@
 <h1 align="center">Hi 👋, I'm José Zarco</h1>
 <h3 align="center">A passionate full stack web developer from Spain</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=zark0-uwu&label=Profile%20views&color=10b197&style=flat" alt="zark0-uwu" /> </p>
+<p align="left"> 
+  <img src="https://komarev.com/ghpvc/?username=zark0-uwu&label=Profile%20views&color=10b197&style=flat" alt="zark0-uwu" /> 
+  <a href="https://twitter.com/zark0_uwu" target="blank"><img src="https://img.shields.io/twitter/follow/zark0_uwu?logo=twitter&style=flat" alt="zark0_uwu" /></a>
+</p>
 
-<p align="left"> <a href="https://twitter.com/zark0_uwu" target="blank"><img src="https://img.shields.io/twitter/follow/zark0_uwu?logo=twitter&style=for-the-badge" alt="zark0_uwu" /></a> </p>
 
 - 🔭 I’m currently working on [kaomoji-db](https://github.com/zark0-UwU/kaomoji-db)
 
