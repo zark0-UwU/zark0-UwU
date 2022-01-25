@@ -6,6 +6,7 @@
   <a href="https://twitter.com/zark0_uwu" target="blank"><img src="https://img.shields.io/twitter/follow/zark0_uwu?logo=twitter&style=flat" alt="zark0_uwu" /></a>
 </p>
 
+![zark0-logo](https://i.imgur.com/pDis6IM.png)
 
 - 🔭 I’m currently working on [kaomoji-db](https://github.com/zark0-UwU/kaomoji-db)
 
