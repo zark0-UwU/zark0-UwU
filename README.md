@@ -8,7 +8,7 @@
 
 ![zark0-logo](https://i.imgur.com/pDis6IM.png)
 
-- 🔭 I’m currently working on [kaomoji-db](https://github.com/kaomoji-foundation)
+- 🔭 I’m currently working on [kaomoji-foundation](https://github.com/kaomoji-foundation)
 
 - 🌱 I’m currently learning **Vue and GO!**
 
