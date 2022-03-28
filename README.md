@@ -8,9 +8,9 @@
 
 ![zark0-logo](https://i.imgur.com/pDis6IM.png)
 
-- 🔭 I’m currently working on [kaomoji-db](https://github.com/zark0-UwU/kaomoji-db)
+- 🔭 I’m currently working on [kaomoji-db](https://github.com/kaomoji-foundation)
 
-- 🌱 I’m currently learning **Angular, Vue, Node and GO!**
+- 🌱 I’m currently learning **Vue and GO!**
 
 - 💬 Ask me about **GO!**
 
