@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on [kaomoji-foundation](https://github.com/kaomoji-foundation)
 
-- 🌱 I’m currently learning **Vue and GO!**
+- 🌱 I’m currently learning **Rust, Vulkan and Nuxt!**
 
 - 💬 Ask me about **GO!**
 
